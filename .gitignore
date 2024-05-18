@@ -1,0 +1,10 @@
+__pycache__
+*.db
+converage.json
+*.pyc
+*.pyo
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
